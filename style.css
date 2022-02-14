@@ -684,6 +684,7 @@ body {
     display: grid;
     -ms-grid-rows: 970px 570px 600px 470px;
         grid-template-rows: 970px 570px 600px 470px;
+    overflow-x: hidden;
   }
   .growth {
     width: 100%;
